@@ -13,8 +13,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZIS021/ZIS021/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ZIS021&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ZIS021/ZIS021/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ZIS021&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://raw.githubusercontent.com/ZIS021/ZIS021/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 

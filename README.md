@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZIS021/ZIS021/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=ZIS021&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
@@ -21,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:ZIS021?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:ZIS021?theme=normal-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
@@ -42,6 +40,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -51,15 +57,5 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph.svg">
-</picture>
 
 ###

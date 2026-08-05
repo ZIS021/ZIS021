@@ -35,18 +35,11 @@
 ## 👾 About Me
 
 ```
-  /$$$$$$  /$$$$$$ /$$   /$$  /$$$$$$  /$$$$$$$ 
- /$$__  $$|_  $$_/| $$  | $$ /$$__  $$| $$__  $$
-| $$  \__/  | $$  | $$  | $$| $$  \ $$| $$  \ $$
-|  $$$$$$   | $$  | $$$$$$$$| $$$$$$$$| $$  | $$
- \____  $$  | $$  | $$__  $$| $$__  $$| $$  | $$
- /$$  \ $$  | $$  | $$  | $$| $$  | $$| $$  | $$
-|  $$$$$$/ /$$$$$$| $$  | $$| $$  | $$| $$$$$$$/
- \______/ |______/|__/  |__/|__/  |__/|_______/ 
-                                                
-                                                
-                                                                                            
-                                                
+ _    _      _ _         __        __         _     _ _ 
+| |  | |    | | |        \ \      / /__  _ __| | __| | |
+| |__| | ___| | | ___     \ \ /\ / / _ \| '__| |/ _` | |
+|  __  |/ _ \ | |/ _ \     \ V  V / (_) | |  | | (_| |_|
+|_|  |_|\___/_|_|\___/      \_/\_/ \___/|_|  |_|\__,_(_)
 ```
 
 I'm a **Computer Science & Engineering** student at **Daffodil International University**,
@@ -132,12 +125,24 @@ before graduation, one debug session at a time.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph.svg"/>
 </picture>
 
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 <div align="center">
   <img src="https://count.getloli.com/@:ZIS021?theme=normal-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Visitor Counter"/>
   <br/>
   <sub>👆 Thanks for visiting! Feel free to ⭐ any project you find interesting.</sub>
+  <br/><br/>
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height:41px !important;width:174px !important;box-shadow:0px 3px 2px 0px rgba(190,190,190,0.5) !important;-webkit-box-shadow:0px 3px 2px 0px rgba(190,190,190,0.5) !important;"/>
+  </a>
 </div>
 
 <div align="center">

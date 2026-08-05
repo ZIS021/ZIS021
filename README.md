@@ -49,7 +49,7 @@ $$\   $$ |  $$ |  $$ |  $$ |$$ |  $$ |$$ |  $$ |
 ```
 
 I'm a **Computer Science & Engineering** student at **Daffodil International University**,
-currently in my **3rd semester** — on a mission to learn everything I possibly can
+— on a mission to learn everything I possibly can
 before graduation, one debug session at a time.
 
 ---
@@ -59,7 +59,6 @@ before graduation, one debug session at a time.
 | Area | Topics |
 |------|--------|
 | 📊 **DSA** | Data Structures & Algorithms in C |
-| ⚡ **Circuits** | Electrical Engineering — KVL, KCL, Thevenin, Superposition |
 | 💻 **Programming** | C, Python, HTML/CSS |
 | 🤖 **IoT** | ESP32, Arduino, OLED displays, sensor modules |
 
@@ -136,15 +135,6 @@ before graduation, one debug session at a time.
 </div>
 
 ---
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph.svg"/>
-</picture>
-
 ## 👾 Pac-Man Contribution Graph
 
 <picture>

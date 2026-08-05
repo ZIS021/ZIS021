@@ -1,61 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:fc5c7d,100:2575fc&height=200&section=header&text=Zahidul%20Islam%20Sihad&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Builder%20%7C%20Debugger%20%F0%9F%9A%80&descSize=17&descAlignY=60&descColor=ffffff"/>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FC5C7D&center=true&vCenter=true&multiline=false&width=520&lines=Computer+Science+%26+Engineering+%F0%9F%8E%93;ESP32+Robot+Builder+%F0%9F%A4%96;Learning+one+debug+at+a+time+%F0%9F%94%A5;3rd+Semester+%40+Daffodil+International+University" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <a href="https://www.youtube.com/@YOUR_CHANNEL">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32"/>
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32"/>
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32"/>
-  </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32"/>
-  </a>
-</div>
-
----
-
-## 👾 About Me
-
-```
- _    _      _ _         __        __         _     _ _ 
-| |  | |    | | |        \ \      / /__  _ __| | __| | |
-| |__| | ___| | | ___     \ \ /\ / / _ \| '__| |/ _` | |
-|  __  |/ _ \ | |/ _ \     \ V  V / (_) | |  | | (_| |_|
-|_|  |_|\___/_|_|\___/      \_/\_/ \___/|_|  |_|\__,_(_)
-```
 
 I'm a **Computer Science & Engineering** student at **Daffodil International University**,
-currently in my **3rd semester** — on a mission to learn everything I possibly can
+currently in my **2nd Year (Class of 2027)** — on a mission to learn everything I possibly can
 before graduation, one debug session at a time.
-
----
-
-## 🧠 What I'm Studying
-
-| Area | Topics |
-|------|--------|
-| 📊 **DSA** | Data Structures & Algorithms in C |
-| ⚡ **Circuits** | Electrical Engineering — KVL, KCL, Thevenin, Superposition |
-| 💻 **Programming** | C, Python, HTML/CSS |
-| 🤖 **IoT** | ESP32, Arduino, OLED displays, sensor modules |
 
 ---
 
@@ -65,6 +11,7 @@ before graduation, one debug session at a time.
 - 🚗 **Line Following Robot** — Arduino Nano + 8-channel IR sensor + TB6612FNG motor driver with PID control  
 - 🌐 **3D Animated Webpages** — Creative HTML/CSS experiments (my design outlet)
 - 📱 **C Projects** — Phonebooks, linked-list programs, BST implementations, and more
+- 💻 **Beecrowd Solutions** — Solving competitive programming problems in C — [View Profile](https://judge.beecrowd.com/en/profile/1205595)
 
 ---
 
@@ -125,13 +72,20 @@ before graduation, one debug session at a time.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZIS021/ZIS021/pacman-output/breakout-contribution-graph.svg"/>
 </picture>
 
-## 👾 Pac-Man Contribution Graph
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+## 🏅 Beecrowd Activity
+
+> ⚠️ **Note:** Beecrowd does **not** provide a public API or contribution-graph widget like GitHub does.  
+> So I've linked my live Beecrowd profile below — solved problems & ranking update there in real-time.
+
+<div align="center">
+  <a href="https://judge.beecrowd.com/en/profile/1205595">
+    <img src="https://img.shields.io/static/v1?message=View%20My%20Beecrowd%20Profile&logo=codeforces&label=BEECROWD&color=1A1A2E&logoColor=white&style=for-the-badge" height="40"/>
+  </a>
+  <br/>
+  <sub>🔗 Live Profile → https://judge.beecrowd.com/en/profile/1205595</sub>
+</div>
 
 ---
 
